@@ -12,3 +12,4 @@ import { TemaModule } from "../tema/tema.module";
     exports: [TypeOrmModule]
 })
 export class PostagemModule {}
+
