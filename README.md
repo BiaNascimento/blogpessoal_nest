@@ -146,7 +146,7 @@ Este projeto foi desenvolvido como parte do currículo do **Bootcamp Generation 
 
 ## 👩‍💻 Autora
 
-**Beatriz Nascimento**  
+**Bianca Nascimento**  
 Desenvolvido durante o Bootcamp Generation Brasil 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-BiaNascimento-181717?style=flat&logo=github)](https://github.com/BiaNascimento)
